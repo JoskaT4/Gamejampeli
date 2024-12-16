@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Obstacle
+  - Hittable
+  - Damage
+  - Obstacle2
+  - BlackHole
   layers:
   - Default
   - TransparentFX
