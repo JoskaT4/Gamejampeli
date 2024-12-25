@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndScene.unity
     guid: ea74a3304dafbda40bbbdf9182d4eccf
+  - enabled: 1
+    path: Assets/Scenes/Alotus.unity
+    guid: dc37b4a34361ca244a2da4ad172d7d4c
+  - enabled: 1
+    path: Assets/Scenes/Ohjaamo.unity
+    guid: c965682815163cb42a86f6fd9c359ee8
   m_configObjects: {}
